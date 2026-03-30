@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "name": "Counter App",
+    "slug": "counter-app",
+    "version": "1.0.0",
+    "orientation": "portrait"
+  }
+}
